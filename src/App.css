@@ -1,0 +1,20 @@
+.form{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around; 
+    margin: 10px;
+    border-bottom: 2px solid black;
+}
+ .form input{
+    width: 17%;
+    margin-bottom: 10px;
+}
+.form button{
+    width:8%;
+    margin: 10px 5px;
+
+}
+.container{
+    padding: 10px;
+}
